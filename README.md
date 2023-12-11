@@ -1,6 +1,4 @@
 # Los-topping-preferidos-en-una-pizza 
-Trabajo practico del Bootcamp Data Scientist - Coding Dojo
-
 Ranking de topping para pizzas
 
 A partir de los datos obtenidos por YouGov, un grupo internacional de análisis y datos de investigación, quienes recopilaron datos para contestar la siguiente pregunta ¿Pertenece la piña a una pizza? (https://yougov.co.uk/topics/politics/articles-reports/2017/03/06/does-pineapple-belong-pizza), debido a que, en Islandia, el presidente dijo que quería prohibir la piña en la pizza (como deseo personal, no un objetivo político), se realizó un análisis para saber cuáles son los “topping” preferidos de los británicos a la hora de comer pizza. Utilizando esta fuente de datos, realizaremos distintas visualizaciones para mostrar el ranking de los topping para pizzas. 
